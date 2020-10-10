@@ -1,0 +1,4 @@
+*.log
+.DS_Store
+.vscode/
+Chinook_Sqlite.sqlite
